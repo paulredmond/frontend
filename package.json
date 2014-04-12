@@ -1,0 +1,37 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "description": "Frontend starter kit with some hipster coffeescript",
+  "scripts": {},
+  "author": "Paul Redmond (https://github.com/paulredmond)",
+  "license": "MIT",
+  "directories": {
+    "bin": "bin/"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim",
+      "coffeeify",
+      "hbsfy"
+    ]
+  },
+  "browserify-shim": {},
+  "dependencies": {
+    "qwery": "~4.0.0",
+    "bonzo": "~2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "browserify": "~3.40.0",
+    "coffeeify": "~0.6.0",
+    "handlebars": "~1.3.0",
+    "hbsfy": "~1.3.2",
+    "browserify-shim": "~3.4.1",
+    "connect": "~2.14.4",
+    "gulp-open": "~0.2.8",
+    "gulp-notify": "~1.2.5",
+    "vinyl-source-stream": "~0.1.1",
+    "coffee-script": "~1.7.1",
+    "gulp-changed": "~0.3.0"
+  }
+}
