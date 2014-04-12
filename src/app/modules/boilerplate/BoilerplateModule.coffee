@@ -1,3 +1,0 @@
-class BoilerplateModule
-  build: (container) ->
-
