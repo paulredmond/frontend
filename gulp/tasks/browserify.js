@@ -5,7 +5,7 @@ var source      = require('vinyl-source-stream');
 
 module.exports = function() {
     return browserify({
-            entries: ['./src/app.coffee'],
+            entries: ['./src/js/app.coffee'],
             extensions: ['.coffee', '.hbs']
         })
         .bundle({debug: true})

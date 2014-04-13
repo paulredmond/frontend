@@ -1,0 +1,32 @@
+@import "app";
+
+.container {
+    padding: 1em 2%;
+}
+
+section {
+    .section-title {
+        margin: 1em 0;
+    }
+
+    .pattern {
+        margin-bottom: 3em;
+        details {
+            padding: .5em 1em;
+        }
+
+        .pattern-details {
+            padding: 1em 1%;
+            background: lighten($dark-gray, 8%);
+        }
+
+        .pattern-preview {
+            padding: 1em 1%;
+            background: lighten($dark-gray, 12%);
+        }
+        .pattern-markup {
+            background: $dark-gray;
+            width: 80%;
+        }
+    }
+}
