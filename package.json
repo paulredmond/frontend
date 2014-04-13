@@ -33,7 +33,6 @@
     "vinyl-source-stream": "~0.1.1",
     "coffee-script": "~1.7.1",
     "gulp-changed": "~0.3.0",
-    "gulp-sass": "~0.7.1",
     "gulp-ruby-sass": "~0.4.3"
   }
 }
