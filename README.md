@@ -33,3 +33,7 @@ alias npm-exec='PATH=$(npm bin):$PATH'
 # run as npm-exec
 npm-exec gulp build
 ```
+
+License
+-------
+See the `LICENSE` file. License is also available [online](http://paulredmond.mit-license.org/)
