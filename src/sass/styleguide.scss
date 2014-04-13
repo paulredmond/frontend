@@ -16,6 +16,7 @@ section {
         }
 
         .pattern-details {
+            border-radius: 5px 5px 0 0;
             padding: 1em 1%;
             background: lighten($dark-gray, 8%);
         }
