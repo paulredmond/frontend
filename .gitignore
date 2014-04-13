@@ -2,3 +2,4 @@ node_modules
 .bundle
 .sass-cache
 /bin
+*.map
