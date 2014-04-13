@@ -263,9 +263,6 @@ button,
     background-color: #bfbc6d;
     background-image: none;
     box-shadow: none; }
-  button i[class="fi-*"],
-  .button i[class="fi-*"], .button-l i[class="fi-*"] {
-    color: #66642d; }
 
 button,
 .button {
@@ -299,9 +296,5 @@ h5, h6 {
   padding: 1em;
   background-color: #333333;
   border-radius: 10px; }
-
-i.large {
-  font-size: 50px;
-  line-height: 50px; }
 
 /*# sourceMappingURL=app.css.map */
