@@ -280,7 +280,7 @@ button.inset {
 
 body {
   color: white;
-  background-color: #262626;
+  background-color: #3d3b3d;
   font-weight: 300; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -294,7 +294,7 @@ h5, h6 {
 
 .module {
   padding: 1em;
-  background-color: #333333;
+  background-color: #4a484a;
   border-radius: 10px; }
 
 .container {
@@ -309,12 +309,12 @@ section .pattern {
   section .pattern .pattern-details {
     border-radius: 5px 5px 0 0;
     padding: 1em 1%;
-    background: #3a3a3a; }
+    background: #524f52; }
   section .pattern .pattern-preview {
     padding: 1em 1%;
-    background: #454545; }
+    background: #5c595c; }
   section .pattern .pattern-markup {
-    background: #262626;
+    background: #3d3b3d;
     width: 80%; }
 
 /*# sourceMappingURL=styleguide.css.map */

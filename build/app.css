@@ -280,7 +280,7 @@ button.inset {
 
 body {
   color: white;
-  background-color: #262626;
+  background-color: #3d3b3d;
   font-weight: 300; }
 
 h1, h2, h3, h4, h5, h6 {
@@ -294,7 +294,7 @@ h5, h6 {
 
 .module {
   padding: 1em;
-  background-color: #333333;
+  background-color: #4a484a;
   border-radius: 10px; }
 
 /*# sourceMappingURL=app.css.map */
